@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/axies-reactjs/static/css/main.2b8073c7.css",
-    "main.js": "/axies-reactjs/static/js/main.309b4ac2.js",
+    "main.js": "/axies-reactjs/static/js/main.e35de8c9.js",
     "static/media/img_bg_page_title.jpg": "/axies-reactjs/static/media/img_bg_page_title.7e78e49d71e627ad7d9a.jpg",
     "static/media/bg-gradient1.png": "/axies-reactjs/static/media/bg-gradient1.ea9b8bf6d8ab79c28eb0.png",
     "static/media/bg-gradient2.png": "/axies-reactjs/static/media/bg-gradient2.0c780f516f9376180099.png",
@@ -118,10 +118,10 @@
     "static/media/coin.svg": "/axies-reactjs/static/media/coin.d9eb617f8d667f98d5cd6093850c70e3.svg",
     "index.html": "/axies-reactjs/index.html",
     "main.2b8073c7.css.map": "/axies-reactjs/static/css/main.2b8073c7.css.map",
-    "main.309b4ac2.js.map": "/axies-reactjs/static/js/main.309b4ac2.js.map"
+    "main.e35de8c9.js.map": "/axies-reactjs/static/js/main.e35de8c9.js.map"
   },
   "entrypoints": [
     "static/css/main.2b8073c7.css",
-    "static/js/main.309b4ac2.js"
+    "static/js/main.e35de8c9.js"
   ]
 }
